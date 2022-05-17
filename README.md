@@ -1,5 +1,5 @@
 # CookBook
-
+The application was developed with the goal of giving users directions and ingredient details including cook time to their favourite dishes
 # HOME COMPONENT
 Home page displays all the dishes available in the app
 
